@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67301938229",
+    "project_id": "appwaycost",
+    "storage_bucket": "appwaycost.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67301938229:android:67a16256328230e1160d7c",
+        "android_client_info": {
+          "package_name": "com.example.appwaycost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67301938229-t26bvi1fu92c4ufd9ft5j9uqvto1555a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXEpRBOqoxPVxFeQAPEcCZZvAdN3yu8JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67301938229-t26bvi1fu92c4ufd9ft5j9uqvto1555a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
